@@ -21,13 +21,13 @@ plugins=(... alt-and-select)
 Install using git clone.
 
 ```zsh
-cd  ~/.oh-my-zsh/plugins && git clone https://github.com/raisty/alt-and-select.git
+cd  ~/.oh-my-zsh/plugins && git clone https://github.com/rastislavcore/alt-and-select.git
 ```
 
 Or (alternative) download the file using wget.
 
 ```zsh
-mkdir -p ~/.oh-my-zsh/plugins/alt-and-select && wget https://raw.githubusercontent.com/raisty/alt-and-select/master/alt-and-select.plugin.zsh -nc --no-dns-cache -O ->> ~/.oh-my-zsh/plugins/alt-and-select
+mkdir -p ~/.oh-my-zsh/plugins/alt-and-select && wget https://raw.githubusercontent.com/rastislavcore/alt-and-select/master/alt-and-select.plugin.zsh -nc --no-dns-cache -O ->> ~/.oh-my-zsh/plugins/alt-and-select
 ```
 
 Activate the plugin in Oh My Zsh (~/.zshrc)
